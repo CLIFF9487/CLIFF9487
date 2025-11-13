@@ -2,7 +2,7 @@
 
 
 
--🔭 I’m currently working on ... 研究圖形
+- 🔭 I’m currently working on ... 研究圖形
 - 🌱 I’m currently learning ... 高等微積分 和 統計學
 - 👯 I’m looking to collaborate on ...  
 - 🤔 I’m looking for help with ... 
